@@ -3,7 +3,7 @@
     <site-hero
       title="Contact Us"
       subtitle="Example Contact Page"
-      image="/uploads/contact-hero.jpg"
+      image="/uploads/wita-pic-3.png"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
@@ -16,14 +16,7 @@
               <p class="subtitle">
                 What can I do for you?
               </p>
-              <figure class="image is-1by1 ">
-                <opti-image
-                  :src="require('~/assets/uploads/contact-person.jpg').src"
-                  :srcset="
-                    require('~/assets/uploads/contact-person.jpg').srcSet
-                  "
-                />
-              </figure>
+
               <br />
               <div class="content">
                 <p>

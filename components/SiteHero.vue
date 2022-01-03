@@ -54,7 +54,7 @@ export default {
 
 <style lang="scss" scoped>
 .hero {
-  margin-top: 52px;
+  margin-top: 80px;
   background-size: cover !important;
   background-position: center;
   text-align: center;
@@ -74,7 +74,7 @@ export default {
   margin: 0;
 }
 .subtitle {
-  font-size: 1rem;
+  font-size: 1.3rem;
   margin-bottom: 0 !important;
 }
 .under-subtitle {
